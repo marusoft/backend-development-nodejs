@@ -56,7 +56,7 @@ Http Status code {`200`, `201`, `300`, `400`, `401`, `404`, `500`, `503`}
 1. SQL Database (Examples are [MySQL](https://dev.mysql.com/doc/), [postgreSQL](https://www.postgresql.org/), SQL Lite)
 2. NoSQL Database ([MongoDB](https://www.mongodb.com/))
 
-### Object Rationlational Mapping(ORM)
+### Object Relational Mapping(ORM)
 ---------------------------------------
 - Sequelize (SQL)
 - Prisma (SQL)
