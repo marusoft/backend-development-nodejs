@@ -125,3 +125,4 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 
 - [Build a REST API with Node JS and Express | CRUD API Tutorial](https://www.youtube.com/watch?v=l8WPWK9mS5M)
 
+- [https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
