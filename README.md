@@ -128,3 +128,7 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 - [https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 
 - [https://www.mongodb.com/docs/atlas/troubleshoot-connection/#special-characters-in-connection-string-password](https://www.mongodb.com/docs/atlas/troubleshoot-connection/#special-characters-in-connection-string-password)
+
+- [https://medium.com/@elhamrani.omar23/next-js-14-server-actions-with-typescript-mongodb-mongoose-4a11575b987c](https://medium.com/@elhamrani.omar23/next-js-14-server-actions-with-typescript-mongodb-mongoose-4a11575b987c)
+
+- [https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/](https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/)
