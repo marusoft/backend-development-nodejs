@@ -132,3 +132,12 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 - [https://medium.com/@elhamrani.omar23/next-js-14-server-actions-with-typescript-mongodb-mongoose-4a11575b987c](https://medium.com/@elhamrani.omar23/next-js-14-server-actions-with-typescript-mongodb-mongoose-4a11575b987c)
 
 - [https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/](https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/)
+
+- [https://josemukorivo.com/blog/unlock-next-level-authentication-in-nextjs-with-next-auth-and-typescript-module-augmentation-1689](https://josemukorivo.com/blog/unlock-next-level-authentication-in-nextjs-with-next-auth-and-typescript-module-augmentation-1689)
+
+- [https://blog.stackademic.com/next-js-13-authentication-with-nextauth-js-app-router-typescript-641058805bc3](https://blog.stackademic.com/next-js-13-authentication-with-nextauth-js-app-router-typescript-641058805bc3)
+
+- [https://medium.com/@htetwinkhant999/next-auth-credentials-log-in-with-next-js-and-typescript-d3d7b7ad56ee](https://medium.com/@htetwinkhant999/next-auth-credentials-log-in-with-next-js-and-typescript-d3d7b7ad56ee)
+
+- [https://github.com/marusoft/next-auth-typescript-example](https://github.com/marusoft/next-auth-typescript-example)
+
