@@ -115,6 +115,8 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 - [model-view-controllermvc-architecture-for-node-applications/](https://www.geeksforgeeks.org/model-view-controllermvc-architecture-for-node-applications/)
 
 - [Learn PostgreSQL](https://www.postgresqltutorial.com/)
+  
+- [How to install on mongodb on window machine](https://www.geeksforgeeks.org/how-to-install-mongodb-on-windows/)
 
 - [learn mongodb-1](https://learn.mongodb.com/learn/course/mongodb-document-model/lesson-1-introduction-to-mongodb/learn)
 
