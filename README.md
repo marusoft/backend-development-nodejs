@@ -143,3 +143,7 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 
 - [https://github.com/marusoft/next-auth-typescript-example](https://github.com/marusoft/next-auth-typescript-example)
 
+- [database-sharding-for-system-design-interview](https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b)
+
+- [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
+
