@@ -147,3 +147,18 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 
 - [Understanding the Difference Between APIs and Endpoints](https://dev.to/msnmongare/understanding-the-difference-between-apis-and-endpoints-402a)
 
+- [simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/)
+
+- [Understanding JWT Authentication: A Comprehensive Guide with Examples](https://dev.to/vyan/understanding-jwt-authentication-a-comprehensive-guide-with-examples-1l3?context=digest)
+
+- [Building an E-Commerce Website with MERN Stack: OTP Authentication, Razorpay Integration](https://youtu.be/Yag_XJD2IAc?si=5arTaDcIY1ZcOj-4)
+
+- [Email OTP Setup with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=uqTNK57HDPs)
+  
+- [Next.js: Authentication (Best Practices for Server Components, Actions, Middleware)](https://www.youtube.com/watch?v=N_sUsq_y10U)
+  
+- [cloudinary-image-uploads-using-nextjs-app-router](https://cloudinary.com/blog/cloudinary-image-uploads-using-nextjs-app-router)
+
+- [https://ilyasschadli-dev.medium.com/how-to-upload-files-to-cloudinary-with-nodejs-mongodb-9683ec205fe3](https://ilyasschadli-dev.medium.com/how-to-upload-files-to-cloudinary-with-nodejs-mongodb-9683ec205fe3)
+
+
