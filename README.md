@@ -162,3 +162,4 @@ MVC is a design pattern used to decouple user-interface (view), data (model), an
 - [https://ilyasschadli-dev.medium.com/how-to-upload-files-to-cloudinary-with-nodejs-mongodb-9683ec205fe3](https://ilyasschadli-dev.medium.com/how-to-upload-files-to-cloudinary-with-nodejs-mongodb-9683ec205fe3)
 
 
+- [https://johnryancottam.medium.com/image-uploading-with-node-cloudinary-6f7796c8277a](https://johnryancottam.medium.com/image-uploading-with-node-cloudinary-6f7796c8277a)
